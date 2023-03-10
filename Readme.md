@@ -19,4 +19,7 @@ node index.js
 loadtest -n 300 http://localhost:3000
 ```
 
-![alt worker](https://github.com/nikhilunni511/scale-nodejs-cluster/blob/main/cluster.png?raw=true)
+Now you can see the load test results in the terminal where you started the server as below.
+
+<img src="https://github.com/nikhilunni511/scale-nodejs-cluster/blob/main/cluster.png?raw=true" width="200" height="100">
+
